@@ -1,1 +1,1 @@
-# moduleinstaller-tutorial
+# moduleadmin-tutorial
