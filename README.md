@@ -26,4 +26,4 @@ The ModuleAdmin Framework provides standardized GUI for the Administration Contr
 * [Addition of a button](book/8.md)
 * [The page "index.php"](book/9.md)
 * [The page "about.php"](book/10.md)
-* [Module Credits](book/99credits.md)
+* [Credits](book/99credits.md)
