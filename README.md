@@ -14,6 +14,8 @@
 
 The ModuleAdmin Framework provides standardized GUI for the Administration Control Panel for all XOOPS modules compatible with XOOPS 2.5. It allows to manage the visual part of the administration of any module in a consistent way, thus making it more user friendly. 
 
+![](assets/moduleAdminFlow.jpg)
+
 # Table of Content
 
 * [Installation](book/1install.md)
