@@ -1,47 +1,31 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module ModuleInstaller
-#### for XOOPS 2.5.7
-      
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+# XOOPS ModuleAdmin Framework
+#### for XOOPS 2.5.4+
+     
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+## Developer Manual
+ 
+© 2015 The XOOPS Project (http://xoops.org)    
 
-## Module Purpose 
+### Framework Purpose 
 
-This module is for .....
 
-![image001.png](en/assets/image001.jpg)
-*Figure 1: Main view of the ModuleInstaller Module (Admin side)*
+The ModuleAdmin Framework provides standardized GUI for the Administration Control Panel for all XOOPS modules compatible with XOOPS 2.5. It allows to manage the visual part of the administration of any module in a consistent way, thus making it more user friendly. 
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
-
-**You can fork the module --> [here](https://github.com/XoopsModules25x/moduleinstaller))** 
-
-## How to Contribute
-
-[You can contribute on GitHub](https://github.com/XoopsDocs/moduleinstaller-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/moduleinstaller-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/moduleinstaller-tutorial) changes.
-
-Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
+![](assets/moduleAdminFlow.jpg)
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
-
-##License:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+* [Installation](book/1install.md)
+* [Configuration of xoops_version.php](book/2.md)
+* [Configurations of the usage of the Frameworks](book/3.md)
+* [The admin menu](book/4.md)
+* [The help section of the module](book/5.md)
+* [Addition of a info box](book/6.md)
+* [Addition of a navigation](book/7.md)
+* [Addition of a button](book/8.md)
+* [The page "index.php"](book/9.md)
+* [The page "about.php"](book/10.md)
+* [Credits](book/99credits.md)
