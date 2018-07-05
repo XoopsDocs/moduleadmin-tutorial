@@ -15,7 +15,7 @@ The upper part is automatically generated and tabs are created by the `menu.php`
 ```text
 modulename 
     L admin 
-        L menu.php. 
+        L menu.php 
 ```
 
 The menu.php file must have the following structure:
