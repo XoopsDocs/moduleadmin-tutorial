@@ -1,31 +1,34 @@
-### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+# Introduction
 
-# XOOPS ModuleAdmin Framework
-#### for XOOPS 2.5.4+
-     
+#### _XOOPS Documentation Series_
 
-## Developer Manual
- 
-© 2015 The XOOPS Project (http://xoops.org)    
+![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
 
-### Framework Purpose 
+## XOOPS ModuleAdmin Framework
 
+**for XOOPS 2.5.4+**
 
-The ModuleAdmin Framework provides standardized GUI for the Administration Control Panel for all XOOPS modules compatible with XOOPS 2.5. It allows to manage the visual part of the administration of any module in a consistent way, thus making it more user friendly. 
+### Developer Manual
 
-![](assets/moduleAdminFlow.jpg)
+© 2015 The XOOPS Project \([http://xoops.org](http://xoops.org)\)
 
-# Table of Content
+#### Framework Purpose
 
-* [Installation](book/1install.md)
-* [Configuration of xoops_version.php](book/2.md)
-* [Configurations of the usage of the Frameworks](book/3.md)
-* [The admin menu](book/4.md)
-* [The help section of the module](book/5.md)
-* [Addition of a info box](book/6.md)
-* [Addition of a navigation](book/7.md)
-* [Addition of a button](book/8.md)
-* [The page "index.php"](book/9.md)
-* [The page "about.php"](book/10.md)
-* [Credits](book/99credits.md)
+The ModuleAdmin Framework provides standardized GUI for the Administration Control Panel for all XOOPS modules compatible with XOOPS 2.5. It allows to manage the visual part of the administration of any module in a consistent way, thus making it more user friendly.
+
+![](.gitbook/assets/moduleadminflow.jpg)
+
+## Table of Content
+
+* [Installation](installation.md)
+* [Configuration of xoops\_version.php](configuration-of-xoops_version.php.md)
+* [Configurations of the usage of the Frameworks](configurations-of-the-usage-of-the-frameworks.md)
+* [The admin menu](the-admin-menu.md)
+* [The help section of the module](the-help-section-of-the-module.md)
+* [Addition of a info box](addition-of-a-info-box.md)
+* [Addition of a navigation](addition-of-a-navigation.md)
+* [Addition of a button](addition-of-a-button.md)
+* [The page "index.php"](the-page-index.php.md)
+* [The page "about.php"](the-page-about.php.md)
+* [Credits](credits.md)
+
