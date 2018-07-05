@@ -68,13 +68,13 @@ $modversion['help'] = 'page=help';
 Allow you to specify the template of the help page of the module also to create the help menu.
 
 ```php
-$modversion['min\_php'] = '5.4';
+$modversion['min_php'] = '5.4';
 ```
 
 Vou have to specify the minimum php version required to a good working of the module. Anyway, you need at least 5.2, because the Framework does not work on an earlier version.
 
 ```php
-$modversion['min\_xoops'] = '2.5.7';
+$modversion['min_xoops'] = '2.5.7';
 ```
 
 You have to specify the minimum xoops version required to a good working of the module. Anyway, you need at least 2.5, because the Framework does not work on an earlier version.
